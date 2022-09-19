@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This is Ritwick Sinha, an ECE undergrad
 
 <!--
 **sinharitwick/sinharitwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
