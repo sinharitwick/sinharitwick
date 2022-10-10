@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Ritwick Sinha, an ECE undergrad
+### This is Ritwick Sinha, a full stack web developer and an ECE undergrad
 
 <hr/>
 
