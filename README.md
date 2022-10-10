@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritwick Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" width="400" alt="Coding GIF" src="https://c.tenor.com/DBqjevyA2o4AAAAC/bongo-cat-codes.gif">
 
 <p align="left">
 </p>
